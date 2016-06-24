@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz On Korea</string>
+    <string name="first_question">What country uses this flag? (Hint: The name of this app)</string>
+    <string name="second_question">What is the capital city of Korea? (Hint: You have a beautiful soul)</string>
+    <string name="third_question">Which of the following is NOT a city in Korea? (Check all that apply)</string>
+    <string name="fourth_question">Is Korea located in Asia?</string>
+    <string name="fifth_question">Who made this awesome app? (Hint: He is still alive)</string>
+</resources>
